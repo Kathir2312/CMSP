@@ -1,0 +1,27 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "careers-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/careers/CareersWebPart.js",
+          "manifest": "./src/webparts/careers/CareersWebPart.manifest.json"
+        }
+      ]
+    },
+    "wpcareers-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/wpcareers/WpcareersWebPart.js",
+          "manifest": "./src/webparts/wpcareers/WpcareersWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "CareersWebPartStrings": "lib/webparts/careers/loc/{locale}.js",
+    "WpcareersWebPartStrings": "lib/webparts/wpcareers/loc/{locale}.js"
+  }
+}

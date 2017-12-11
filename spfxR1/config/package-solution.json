@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfxr1",
+    "id": "eb4973d2-d995-4e43-98bc-0364d65c4ae3",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfxr1.sppkg"
+  }
+}

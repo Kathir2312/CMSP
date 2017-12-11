@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.3.4",
+    "libraryName": "cmappv-2",
+    "libraryId": "74e8f873-171d-4038-ad7f-905505707b03",
+    "environment": "onprem"
+  }
+}

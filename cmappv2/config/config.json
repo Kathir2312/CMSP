@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/wplisting/WplistingWebPart.js",
+      "manifest": "./src/webparts/wplisting/WplistingWebPart.manifest.json",
+      "outputPath": "./dist/wplisting-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "WplistingWebPartStrings": "webparts/wplisting/loc/{locale}.js"
+  }
+}

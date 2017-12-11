@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "list-documents-client-side-solution",
+    "id": "500f1671-f298-4b59-95e4-d915721ba206",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/list-documents.sppkg"
+  }
+}

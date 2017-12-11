@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "iacareers",
+    "libraryId": "b03bb437-8841-4e4b-ba2d-a9b991f6f03c",
+    "environment": "spo"
+  }
+}

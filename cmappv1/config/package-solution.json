@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "cmappv-1-client-side-solution",
+    "id": "a657d21d-6839-4b73-8b62-1c605a565fd2",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/cmappv-1.sppkg"
+  }
+}

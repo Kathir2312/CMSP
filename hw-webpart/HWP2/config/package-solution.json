@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hwp-2-client-side-solution",
+    "id": "b433d705-dd4d-43cc-9560-3be178697451",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/hwp-2.sppkg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "cmwp-1-client-side-solution",
+    "id": "c9114b4b-058b-492a-a68b-204e0e486b37",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/cmwp-1.sppkg"
+  }
+}

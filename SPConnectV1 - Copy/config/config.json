@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "cmwpv-2-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/cmwpv2/Cmwpv2WebPart.js",
+          "manifest": "./src/webparts/cmwpv2/Cmwpv2WebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "Cmwpv2WebPartStrings": "lib/webparts/cmwpv2/loc/{locale}.js"
+  }
+}

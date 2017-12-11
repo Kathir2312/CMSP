@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "iacareers-client-side-solution",
+    "id": "b03bb437-8841-4e4b-ba2d-a9b991f6f03c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/iacareers.sppkg"
+  }
+}

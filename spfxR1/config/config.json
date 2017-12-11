@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/wp1/Wp1WebPart.js",
+      "manifest": "./src/webparts/wp1/Wp1WebPart.manifest.json",
+      "outputPath": "./dist/wp-1-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "Wp1WebPartStrings": "webparts/wp1/loc/{locale}.js"
+  }
+}

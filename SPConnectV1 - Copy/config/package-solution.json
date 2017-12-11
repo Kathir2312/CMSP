@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spconnectv-1-client-side-solution",
+    "id": "0288dca9-6c94-438e-889f-b996b688551c",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spconnectv-1.sppkg"
+  }
+}
