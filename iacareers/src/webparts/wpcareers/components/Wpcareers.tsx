@@ -30,7 +30,7 @@ const mapDispatchToProps = (dispatch: Dispatch<CareerappState>) => ({
 
 class Wpcarreers extends React.Component<IWpcareersProps & CareerappState, {}> {
   public render(): React.ReactElement<IWpcareersProps> {
-    let allowednext :boolean= (this.props.jobOpeningState.selection.length>0);
+    let allowednext :boolean= (this.props.jobOpeningState.selection.length>0); 
   // console.log('%c'+ (this.props.jobOpeningState.selection.length>0), 'colo:red;font-weight:bold');
   let selectionindex:Number = this.props.jobOpeningState.selection[0];
     return (
